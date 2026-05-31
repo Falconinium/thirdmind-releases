@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.2"><b>↓ Download the latest release (v0.3.1)</b></a>
+  <a href="https://github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.2"><b>↓ Download the latest release (v0.3.2)</b></a>
 </p>
 
 ---
