@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.1"><b>↓ Download the latest release (v0.3.1)</b></a>
+  <a href="https://github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.2"><b>↓ Download the latest release (v0.3.1)</b></a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ Editorial dark mode, gold and violet accents, restrained typography. Built to fe
 
 ### 1. Install
 Download the latest installer:
-👉 **[github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.1](https://github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.1)**
+👉 **[github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.1](https://github.com/Falconinium/thirdmind-releases/releases/tag/v0.3.2)**
 
 - **macOS Apple Silicon** — `Third-Mind-x.y.z-arm64.dmg`
 - **macOS Intel** — `Third-Mind-x.y.z.dmg`
